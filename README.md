@@ -7,8 +7,8 @@ Súdwest-Fryslân is a vibrant municipality located in the beautiful province of
 ## Open-Source Projects ##
 In this repository, you will find a collection of our open-source projects that encompass a wide range of domains, including but not limited to:
 
-[Open Zaakbrug(https://github.com/Sudwest-Fryslan/OpenZaakBrug)]: Vertaal component van de oude ZDS standaard naar het nieuwe ZGW-api berichten
-[Webformulieren Verwerker(https://github.com/Sudwest-Fryslan/WebformulierenVerwerker)]: Stateless web service for web form data exchange.
+[Open Zaakbrug](https://github.com/Sudwest-Fryslan/OpenZaakBrug): Vertaal component van de oude ZDS standaard naar het nieuwe ZGW-api berichten
+[Webformulieren Verwerker](https://github.com/Sudwest-Fryslan/WebformulierenVerwerker): Stateless web service for web form data exchange.
 We invite you to explore these projects, contribute to their development, and collaborate with our team to drive innovation and create impactful solutions for the benefit of our community.
 
 ## Get Involved ##
