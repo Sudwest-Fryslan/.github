@@ -29,14 +29,14 @@ softwareUsed:
 
 # List of software the public organization supports
 # Each item is a maintenance object representing the support provided for a software
-#softwareSupported:
-#  - software: 'https://github.com/Sudwest-Fryslan/OpenZaakBrug'
-#    type: 'maintenance' # The type of support provided
-#    contact:
-#      email: 'contact@publicorganization.com' # Public contact email
-#      phone: '+1234567890' # Public contact phone number
-#  - software: 'https://github.com/Sudwest-Fryslan/WebformulierenVerwerker'
-#    type: 'saas' # The type of support provided
-#    contact:
-#      email: 'contact@publicorganization.com' # Public contact email
-#      phone: '+1234567890' # Public contact phone number
+softwareSupported:
+  - software: 'https://github.com/Sudwest-Fryslan/OpenZaakBrug'
+    type: 'maintenance' # The type of support provided
+    contact:
+      email: 'info@sudwestfryslan.nl'
+      phone: '+14 0515'
+  - software: 'https://github.com/Sudwest-Fryslan/WebformulierenVerwerker'
+    type: 'maintenance' # The type of support provided
+    contact:
+      email: 'info@sudwestfryslan.nl'
+      phone: '+14 0515'
