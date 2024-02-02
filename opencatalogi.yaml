@@ -1,0 +1,27 @@
+contact:
+  email: 'info@sudwestfryslan.nl' # Public contact email
+  phone: '+14 0515' # Public contact phone number
+description: Organisatie van de gemeente Súdwest-Fryslân
+logo: https://avatars.githubusercontent.com/u/46676163?s=400&u=dad0eb014a0b96db1274bde41bd477b767f94c2d&v=4
+name: Gemeente Súdwest-Fryslân
+publiccodeYmlVersion: '0.2'
+softwareOwned:
+  - 'https://github.com/Sudwest-Fryslan/OpenZaakBrug'
+  - 'https://github.com/Sudwest-Fryslan/WebformulierenVerwerker'
+softwareSupported:
+  - software: 'https://github.com/Sudwest-Fryslan/OpenZaakBrug'
+    type: 'maintenance' # The type of support provided
+    contact:
+      email: 'info@sudwestfryslan.nl'
+      phone: '+14 0515'
+  - software: 'https://github.com/Sudwest-Fryslan/WebformulierenVerwerker'
+    type: 'maintenance' # The type of support provided
+    contact:
+      email: 'info@sudwestfryslan.nl'
+      phone: '+14 0515'
+softwareUsed:
+  - 'https://github.com/open-zaak/open-zaak'
+  - 'https://github.com/VNG-Realisatie/OpenWebConcep'
+  - 'https://github.com/Sudwest-Fryslan/OpenZaakBrug'
+  - 'https://github.com/Sudwest-Fryslan/WebformulierenVerwerker'
+website: 'https://sudwestfryslan.nl/'
